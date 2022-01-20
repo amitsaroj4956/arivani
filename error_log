@@ -1,0 +1,12 @@
+[13-Jul-2021 04:49:28 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:30 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:33 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:37 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:39 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:56 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:49:57 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:50:04 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 04:50:07 UTC] PHP Fatal error:  Trait 'Nextend\Framework\Pattern\SingletonTrait' not found in /home/govjobme/public_html/amit/wp-content/plugins/smart-slider-3/Nextend/Framework/Framework.php on line 12
+[13-Jul-2021 05:02:12 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[13-Jul-2021 05:03:56 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
+[13-Jul-2021 10:34:10 UTC] Aq_Resize.process() error: Unable to resize image because image_resize_dimensions() failed
